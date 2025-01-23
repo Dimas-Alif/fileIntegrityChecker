@@ -15,4 +15,4 @@ Jalankan program:
 
 4. Uji Program:
 Berikan path file yang ingin diperiksa.
-Masukkan hash referensi untuk memverifikasi integritas (opsional).
+Masukkan hash referensi untuk memverifikasi integritas (opsional)
